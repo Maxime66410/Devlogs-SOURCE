@@ -1,0 +1,2 @@
+Genre : TopDown
+Mettez les joueurs dans la peau d'un astronaute piégé dans une station spatiale défaillante. Ils doivent résoudre des problèmes techniques, gérer les ressources et survivre.

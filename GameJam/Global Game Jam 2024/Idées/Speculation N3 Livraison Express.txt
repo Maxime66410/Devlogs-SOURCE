@@ -1,0 +1,3 @@
+Genre : TopDown / ThirdPerson
+On est une compagnie de livraison et notre but est de livrer des scolies dans leurs maisons respectives dans un temps imparti.
+Attention ça se déroule dans l'espace, contrôle du vaisseau souris si Top Down.

@@ -1,0 +1,1 @@
+Un jeu où les joueurs doivent cliquer rapidement sur des objets apparaissant à l'écran dans un laps de temps limité.
