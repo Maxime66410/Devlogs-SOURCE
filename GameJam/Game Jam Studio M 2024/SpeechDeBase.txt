@@ -1,0 +1,12 @@
+Caméra Fixe
+4 Joueur Max
+PvP Local
+4 Arène de chaque éléments
+4 Armes éléments (exemple : Pistolet à eau, Ventilo, Truelle, Lance-flamme)
+BodyShape (Goofy & Anim Ragdoll [Physics])
+
+Style des armes (Dans tout les cas les armes pousse) :
+Air (Ventilo) : Grand porté mais très précis, lent, pousse en continue
+Pierre : Bou de pierre à balancer (Stunt)
+Feu : Boule de feu
+Eau : Pousse en continue si dans le tir
