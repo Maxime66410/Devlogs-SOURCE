@@ -1,0 +1,108 @@
+Personnage Principale :
+Alias : Zero, Ghostlink, ou simplement Ash
+Genre : Unisexe (joueur choisit l’apparence)
+Âge : 28 (âge apparent — vrai âge incertain à cause des altérations neurales)
+Rôle : Opérateur libre / Agent à usage multiple (solo mercenaire, hackeur, négociateur, infiltré...)
+Origine : Inconnue officiellement. Dossiers fragmentés dans plusieurs bases de données corrompues.
+
+Ash est silencieux(euse), adaptable, et méthodique, avec une profonde méfiance envers toute forme d’autorité. Sa mémoire comporte des zones floues, effacées volontairement — par choix ou manipulation.
+On ne sait jamais s’il agit pour lui-même, une cause cachée, ou par pure survie. Il ou elle fonctionne dans l’ombre, mais sait frapper là où ça compte.
+
+
+
+Personnage Secondaire :
+1. Rowen Vale
+Alias : N/A
+Âge : 27
+Rôle : Fixer indépendant(e) / Intermédiaire d'infos
+Origine : Ex-Zone Rouge, District Delta
+Spécialité : Réseaux clandestins, manipulation sociale, piratage de contrats
+Note : Calme, méthodique. Neutre politiquement, vend au plus offrant. Pratique un style old-school, avec trench et implants discrets.
+
+2. Aven Skye
+Alias : Echo-9
+Âge : 23
+Rôle : Courier / Messager crypté entre factions
+Origine : Cité flottante de Celen
+Spécialité : Courses ultra-rapides, furtivité, cryptographie biologique
+Note : Silencieux(euse) mais vif(ve). Vit entre les murs et les flux. Refuse les implants de contrôle, utilise uniquement des modifs physiques organiques.
+
+3. Axel Korr
+Alias : Burnbyte
+Âge : 30
+Rôle : Techno-mécano / spécialiste en cyberprothèses
+Origine : Casse de robots du Secteur 12
+Spécialité : Construction d’implants illégaux, démantèlement de mechas
+Note : Brut, franc, loyal à ceux qu’il respecte. Son bras gauche est une forge mobile.
+
+4. Judy Kehl
+Alias : Glassmoth
+Âge : 26
+Rôle : Espionne sensorielle / Technopsychologue
+Origine : Tours corporate de Pharos Biotics
+Spécialité : Lecture émotionnelle par interface neurale, manipulation de souvenirs
+Note : Calme, presque clinique. Porte toujours des lentilles miroirs.
+
+5. Elyan Dres
+Alias : Nullshade
+Âge : 32
+Rôle : Hacker / Éradicateur de données
+Origine : Ex-citoyen classé "effacé" par l'État
+Spécialité : Intrusion dans les banques de mémoire, effacement d’identité
+Note : Parle peu. Agit comme un fantôme numérique. Sa voix est modifiée à chaque interaction.
+
+6. Boris Tahl
+Alias : Bolt
+Âge : 38
+Rôle : Mercenaire / Spécialiste en armement lourd
+Origine : Frontières de la Zone 0
+Spécialité : Combat lourd, balistique, sécurité de convois
+Note : Ancien militaire repenti. Tactique, très terre-à-terre. A une jambe renforcée au tungstène.
+
+7. Morgan Sayn
+Alias : Greyline
+Âge : 35
+Rôle : Courtier(ère) de données / Stratège corporate repenti(e)
+Origine : Mega-Tower Orbis, secteur exécutif
+Spécialité : Intelligence économique, chantage, manipulation de marché
+Note : Très cérébral(e), toujours 2 coups d’avance. Porte un implant d’analyse comportementale.
+
+8. Hugo Kern
+Alias : Dust
+Âge : 29
+Rôle : Détective freelance / enquêteur de terrain
+Origine : Cité basse de Marrowlane
+Spécialité : Profilage, collecte de preuves physiques, intuition augmentée
+Note : Habillé à l’ancienne, refuse la surveillance interne. Se fie à ses sens.
+
+9. Moe Halden
+Alias : Byteface
+Âge : 24
+Rôle : Streamer tactique / Influenceur underground
+Origine : Slums Interlinkés de Gridtown
+Spécialité : Piratage de contenu, manipulation de flux vidéo/son
+Note : Égocentrique, mais malin. Porte un masque LED changeant en fonction de ses humeurs.
+
+10. Micode
+Alias : Micronaut
+Âge : 21
+Rôle : Développeur IA marginal / créateur de modules autonomes
+Origine : Zone libre de Synthex
+Spécialité : IA rogue, micro-implants, bots autonomes
+Note : Génie jeune, parle à ses créations comme à des amis. Il est toujours accompagné d’un drone arachnoïde.
+
+11. Xor Venn
+Alias : X0R
+Âge : 33
+Rôle : Anarcho-cybernéticien
+Origine : Centre technique de la Fédération Nord
+Spécialité : Virus IA, ruptures de systèmes, hacking des consciences
+Note : N’existe pas officiellement. Son apparence change en fonction des caméras qui le filment.
+
+12. Cael Thorne
+Alias : Whisper
+Âge : 28
+Rôle : Négociateur/Émissaire entre factions ennemies
+Origine : Zone diplomatique morte
+Spécialité : Diplomatie à haut risque, langage corporel, nanocommunication
+Note : Maîtrise plusieurs dialectes oubliés. Porte des implants linguistiques invisibles.
