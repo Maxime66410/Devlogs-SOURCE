@@ -1,0 +1,48 @@
+ANIMATIONS : 
+Punch Starter - MoCap Pack - PAID & IMPLEMENTED
+Sword and Shield First Person Animation Set - PAID & IMPLEMENTED
+Grenade Animation Kit - PAID & IMPLEMENTED
+Spear And Halberd Animset - PAID & IMPLEMENTED
+Zombie Pro - MoCap Pack - PAID & IMPLEMENTED
+Zombie Basic - MoCap Pack - PAID & IMPLEMENTED
+Ultimate FPS Animations Kit - PAID & IMPLEMENTED
+105 Zombie Animations Mocap + 281 Bonus Zombie Audio - PAID & IMPLEMENTED
+
+CHARACTERS : 
+Modular military character 2 - PAID & IMPLEMENTED
+Zombie - Army Soldier - PAID & IMPLEMENTED
+Zombie - Bloated Female - PAID & IMPLEMENTED
+Zombie - Bloated Male - PAID & IMPLEMENTED
+Zombie - Business Suit - PAID & IMPLEMENTED
+Zombie - Starved Female (Cheerleader) - PAID & IMPLEMENTED
+Zombie - Starved Male - PAID & IMPLEMENTED
+
+DECALS : 
+Advanced Glass Material Pack - PAID & NOT IMPLEMENTED
+Animated Blood Decals - Realistic - PAID & NOT IMPLEMENTED
+200+ Grunge Decals - PAID & IMPLEMENTED
+Unreal Engine Normal Damage Decals - PAID & NOT IMPLEMENTED
+
+LIGHT : 
+IES Light Profile Pack - PAID & IMPLEMENTED
+
+EFFECT :
+M5 VFX Vol2. Fire and Flames(Niagara) - PAID & IMPLEMENTED 
+Realistic Starter VFX Pack Vol 2 - PAID & NOT IMPLEMENTED
+Niagara Footstep VFX - PAID & NOT IMPLEMENTED
+Realistic Blood VFX - Niagara Blood Effects - Gore Effects - Blood - PAID & IMPLEMENTED
+Niagara Muzzle Flash & Ejection VFX - PAID & IMPLEMENTED
+
+ENVIRONMENT : 
+Apartment Tech Props - PAID & NOT IMPLEMENTED
+Grocery store props collection - PAID & NOT IMPLEMENTED
+Construction Site VOL. 1 - Supply and Material Props - PAID & NOT IMPLEMENTED
+Construction Site VOL. 2 - Tools, Parts, and Machine Props - PAID & NOT IMPLEMENTED
+City Street Props - PAID & NOT IMPLEMENTED
+Freeway Props - PAID & NOT IMPLEMENTED
+Modular House - PAID & IMPLEMENTED
+Garage Warehouse Environment ( Garage Warehouse , Modular Garage ) - PAID & NOT IMPLEMENTED
+Safe House - PAID & NOT IMPLEMENTED
+
+MESH : 
+Blockout Modern Melee Weapons - PAID & IMPLEMENTED
