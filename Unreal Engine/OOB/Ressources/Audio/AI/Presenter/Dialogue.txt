@@ -1,0 +1,76 @@
+Pour les Bonus :
+
+Boost dégâts : 
+
+"Puissance déchaînée ! Vos coups vont désormais frapper comme un marteau divin !"
+"Attention, les dégâts explosent ! Préparez-vous à dominer vos adversaires !"
+"Boost de puissance activé ! Qui osera vous défier maintenant ?"
+"Une puissance sans égal est à votre portée ! Faites trembler vos adversaires !"
+"Les dégâts montent en flèche ! C’est votre moment de briller !"
+
+Réduction de dégâts :
+
+"Un mur invisible vous protège ! Les attaques ennemies perdent leur mordant !"
+"Bouclier actif ! Vous êtes prêt à encaisser tout ce que l'on vous envoie."
+"Réduction des dégâts en place. Vous êtes presque invincible... presque !"
+"Une aura de protection vous entoure. Vos ennemis auront du mal à percer votre défense !"
+"Réduction active ! Vous encaissez les coups comme un roc !"
+
+Munitions x2 :
+
+"Doublez vos chances, doublez les munitions ! La tempête de balles est en marche !"
+"Munition X2 activée ! Faites pleuvoir la destruction !"
+"Plus de balles, plus de chaos ! Profitez-en pendant que ça dure !"
+"Munition doublée ! Les ennemis ne sauront plus où se cacher !"
+"Avec autant de munitions, la domination est à portée de main !"
+
+Augmentation de la cadence de tir :
+
+ 
+"Les balles volent plus vite que jamais ! La cadence atteint son apogée !"
+"Fusillade frénétique en approche ! Tirez sans retenue !"
+"Cadence augmentée ! Transformez votre arme en une mitrailleuse infernale !"
+"Préparez-vous à faire chauffer vos armes ! La cadence est déchaînée !"
+"Mode turbo activé ! Que le carnage commence !"
+
+Tir de barrage :
+
+"Un déluge de projectiles vous attend ! Faites pleuvoir la justice !"
+"Barrage activé ! Les ennemis n'ont nulle part où se cacher !"
+"Un torrent de tirs s'abat sur vos adversaires. Bonne chance à eux !"
+"Un ouragan de tirs s’annonce ! Montrez-leur qui commande !"
+"Les projectiles pleuvent comme une tempête furieuse. Bonne chance pour y échapper !"
+
+Voir à travers les murs :
+
+"Vision améliorée activée ! Plus rien ne vous échappe !"
+"Voir à travers les murs ? C'est de la triche, mais qui s'en plaindra ?"
+"Vous avez l'avantage stratégique ultime. Trouvez-les avant qu'ils ne vous trouvent !"
+"Vous voyez tout, vous savez tout. Exploitez cet avantage à fond !"
+"Avec une vision pareille, rien ne peut vous surprendre !"
+
+Pour les Événements :
+
+AFK Killer : 
+
+"Attention ! Les joueurs inactifs ne sont pas en sécurité. Chasse au AFK en cours !"
+"Inactivité détectée ! Le système se chargera des absents."
+"AFK Killer activé ! Pas de pitié pour les distraits."
+"Un joueur distrait ? Le système ne leur fera pas de cadeau !"
+"Les absents n’ont jamais raison. AFK Killer en action !"
+
+Gusts of Wind : 
+
+"Le vent souffle fort ! Tenez-vous prêts, vos déplacements seront chamboulés !"
+"Rafales en approche ! Ajustez vos plans ou soyez emportés !"
+"Vent violent activé ! La bataille prend une tournure imprévisible !"
+"Les vents soufflent sans relâche ! Votre maîtrise sera mise à l'épreuve."
+"Tenez bon, la tempête ne fait que commencer !"
+
+Changing Gravity :
+
+"Gravité instable détectée ! Préparez-vous à des mouvements hors du commun !"
+"Attention, la gravité change ! Gardez les pieds sur terre... si vous le pouvez."
+"Gravité modifiée ! Qui saura s'adapter à cette nouvelle réalité ?"
+"L’attraction terrestre n’est plus ce qu’elle était. Adaptez-vous vite !"
+"Préparez-vous à des sauts imprévisibles et des stratégies réinventées !"
